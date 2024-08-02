@@ -1,0 +1,10 @@
+git clone https://github.com/techchipnet/CamPhish
+
+cd CamPhish
+
+sudo chmod +x camphish.sh
+
+./camphish.sh
+
+K4DyBUG242c
+
